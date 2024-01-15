@@ -1,1 +1,1 @@
-Random Password Generator from astern-puffins
+Random Password Generator by  astern-puffins
